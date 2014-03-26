@@ -4,7 +4,7 @@ This is my custom boilerplate just for me. This makes projects quicker to start 
 
 ##Notes : 
 - Based on [HTML5 Boilerplate] (http://html5boilerplate.com/)
-- Includes [SCSS for foundation] fromework (https://github.com/zurb/foundation)
+- Includes [SCSS for foundation] framework (https://github.com/zurb/foundation)
 - Updates directory structure so assets are contained in the assets directory. 
 
 
